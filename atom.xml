@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://zplqwq.github.io</id>
+    <title>zplqwq</title>
+    <updated>2022-10-12T13:51:50.314Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://zplqwq.github.io"/>
+    <link rel="self" href="https://zplqwq.github.io/atom.xml"/>
+    <subtitle>I love you 3000.</subtitle>
+    <logo>https://zplqwq.github.io/images/avatar.png</logo>
+    <icon>https://zplqwq.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, zplqwq</rights>
+    <entry>
+        <title type="html"><![CDATA[题解 P5768 [CQOI2016]路由表]]></title>
+        <id>https://zplqwq.github.io/post/ti-jie-p5768-cqoi2016lu-you-biao/</id>
+        <link href="https://zplqwq.github.io/post/ti-jie-p5768-cqoi2016lu-you-biao/">
+        </link>
+        <updated>2022-10-12T10:51:53.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[题解 P4324 [JSOI2016]扭动的回文串]]></title>
+        <id>https://zplqwq.github.io/post/ti-jie-p4324-jsoi2016niu-dong-de-hui-wen-chuan/</id>
+        <link href="https://zplqwq.github.io/post/ti-jie-p4324-jsoi2016niu-dong-de-hui-wen-chuan/">
+        </link>
+        <updated>2022-10-12T10:50:46.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[题解 [POI2010]ZAB-Frog]]></title>
+        <id>https://zplqwq.github.io/post/sol-poi2010zab-frog/</id>
+        <link href="https://zplqwq.github.io/post/sol-poi2010zab-frog/">
+        </link>
+        <updated>2022-10-12T10:49:36.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[可持久化线段树学习笔记]]></title>
+        <id>https://zplqwq.github.io/post/zxtree/</id>
+        <link href="https://zplqwq.github.io/post/zxtree/">
+        </link>
+        <updated>2022-10-12T10:47:34.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[about]]></title>
+        <id>https://zplqwq.github.io/post/about/</id>
+        <link href="https://zplqwq.github.io/post/about/">
+        </link>
+        <updated>2022-09-06T11:36:00.000Z</updated>
+    </entry>
+</feed>
